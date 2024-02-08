@@ -9,6 +9,7 @@
 body{
     margin-left: 80px;
     margin-left: 80px;
+    transition: margin-left 0.3s ease-in-out;
 }
 header{
     width: 100%;
@@ -48,6 +49,7 @@ header{
     overflow: hidden;
     z-index: 200;
     border: 10px solid ghostwhite;
+    transition: all 0.3s ease-in-out;
 
 }
 .txt{
